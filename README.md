@@ -15,8 +15,8 @@ Tahap-tahap
 6. Uji coba dengan masing-masing video workout
 7. Download video hasil deteksi pose
 
-
-
+Final Deck
+https://docs.google.com/presentation/d/10oJEHoDKTA_pfoBLjRHk5e-H7DKhwDj3yvCFFLlyKX4/edit?usp=sharing
 
 Input Push Up Videos
 https://drive.google.com/drive/folders/1xIRfVwrrAHCOQKKkKog7kacY1zIKvtLI?usp=sharing
