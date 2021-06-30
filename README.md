@@ -15,3 +15,28 @@ Tahap-tahap
 6. Uji coba dengan masing-masing video workout
 7. Download video hasil deteksi pose
 
+
+
+
+Input Push Up Videos
+https://drive.google.com/drive/folders/1xIRfVwrrAHCOQKKkKog7kacY1zIKvtLI?usp=sharing
+
+Output PushUp Videos
+https://drive.google.com/drive/folders/15Dk5lQgFAPkJVzrvSHYG1isNRH2c4jW0?usp=sharing
+
+Further Test PushUp Videos
+https://drive.google.com/drive/folders/1HLLcEyjBWeBkmrgHDuGJifYRU3oIrtBU?usp=sharing
+
+
+Input Sit Up Videos
+https://drive.google.com/drive/folders/1yyFbFtPWBNUJQuuJgticCszaWlUjxaTK?usp=sharing
+
+Output Sit Up Videos
+https://drive.google.com/drive/folders/1GdgSqMPiMQv42gAMOGGbT0YVQ9H99Xwq?usp=sharing
+
+
+Input pull up Videos
+https://drive.google.com/drive/folders/1Z_pTEqTrJNDclOu3lmi6IPyQEB3QGt-0?usp=sharing
+
+Output Pull Up Videos
+https://drive.google.com/drive/folders/1AULu5jXScZUvB4-Zqss2EssSo7l_t8zZ?usp=sharing
